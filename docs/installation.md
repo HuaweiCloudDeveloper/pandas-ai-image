@@ -96,8 +96,9 @@ pip install --upgrade "openai>=1.3.5" -i https://pypi.tuna.tsinghua.edu.cn/simpl
 
 使用[app.py](../scripts/app.py)进行推理
 
+```
 Streamlit run app.py
-
+```
 运行之后会显示为：
 
 ![img](images/img_1.png)
